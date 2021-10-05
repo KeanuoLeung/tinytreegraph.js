@@ -1,6 +1,6 @@
 {
   "name": "tinytreegraph",
-  "version": "1.2.0",
+  "version": "1.4.0",
   "main": "dist/lib.js",
   "module": "dist/lib.mjs",
   "typings": "dist/lib.d.ts",
