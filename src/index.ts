@@ -239,6 +239,7 @@ export function renderGraph(
   nodes: PrivacyGraphNode[],
   edges: PrivacyGraphEdge[]
 ) {
+  container.innerHTML = '';
   const canvas = document.createElement('canvas');
   canvas.style.backgroundColor = 'black';
   container.appendChild(canvas);

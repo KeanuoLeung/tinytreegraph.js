@@ -26,7 +26,7 @@ export default [
       {
         file: `${name}-iife.js`,
         format: 'iife',
-        name: 'PrivacyChart',
+        name: 'TinyTreeGraph',
         amd: {
           id: 'lib/privacy-chart',
         },
